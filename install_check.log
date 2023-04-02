@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin MacBook-Pro-341.lan 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:04:44 PST 2022; root:xnu-8792.61.2~4/RELEASE_ARM64_T8103 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.37.1 (Apple Git-137.1)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Nov  5 2022 00:19:23)
+CURL:	[/Users/alisha/opt/anaconda3/bin/curl] curl 7.68.0 (x86_64-apple-darwin13.4.0) libcurl/7.68.0 OpenSSL/1.1.1d zlib/1.2.11 libssh2/1.8.2
+NODE:	[/Users/alisha/.nvm/versions/node/v18.15.0/bin/node] v18.15.0
